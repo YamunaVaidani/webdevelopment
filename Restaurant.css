@@ -1,0 +1,204 @@
+.image1{
+    height: 50px;
+    width: 50px;
+    
+}
+.heading{
+    color: black !important;
+    font-family:Roboto !important;
+}
+.bg-image{
+    background-image: url("https://media.istockphoto.com/id/520766882/photo/breakfast-set-pan-of-fried-eggs-with-bacon-fresh-tomato.jpg?s=612x612&w=0&k=20&c=IAQXD83mXA3DptMUC6Lw0bz-Qx__tu99-816JQwcexg=");
+
+    height: 100vh;
+    background-size: cover;
+}
+.h1{
+    color:gold;
+}
+.para{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: gold;
+}
+.button1{
+    color:black;
+    background-color:bisque;
+    margin-right: 10px;
+    border-radius: 8px;
+    border-color: blanchedalmond;
+}
+.button2{
+    color:bisque;
+    background-color: transparent;
+    border-radius: 8px;
+    border-color: blanchedalmond;
+}
+.wcu-container{
+    background-color: aliceblue;
+    }
+    
+    .wcu-heading{
+     font-family: robot;
+     font-size: 35px;
+     font-weight: bold;
+     color: black;
+    }
+    .wcu-para{
+     font-family: robot;
+     font-size: 25px;
+     color: black;
+    }
+    .card{
+        background-color: white;
+        align-items: center;
+        border: radius 25px;
+        border-color: black;
+    }
+    .image{
+        height: 100px;
+        width:100px;
+       
+    }
+    .card.heading{
+        font-family: robot;
+    
+     font-weight: bold;
+     color: black;
+    }
+    .card.para{
+        font-family: robot;
+     
+     color: black;
+    }
+    .span{
+        color: black;
+        font-weight: bold;
+    }
+    .explore-menu{
+    background-color: white;
+}
+.main-heading{
+    color: black;
+    font-family: robot;
+    font-weight: 500;
+    font-size: 36px;
+}
+
+.card-menu{
+    background-color: white;
+    border-radius: 16px;
+}
+.Ex-image{
+    border-radius: 16px;
+   
+}
+.sub-heading{
+    font-family: robot;
+    font-weight: 200;
+    font-size:20px;
+    margin-top: 24px;
+    color: rgb(15, 9, 9);
+}
+.link1{
+    color: #d0b200;
+    font-size: 20px;
+    font-family: robot;
+
+}
+
+.helath-section{
+    background-color:rgb(246, 246, 254);
+   }
+   .helath-image{
+       height: 400px;
+       width: 400px;
+       
+   }
+    health-h1{
+       color: #333;
+       font-family: robot;
+       font-size: 35px;
+       font-weight: bold;
+       padding: 16px;
+   
+       
+   }
+   health-p{
+       color: #333;
+       font-family: robot;
+       font-size: 20px;
+       padding: 10px;
+   
+    }
+   .health-button1{
+       border-radius: 10px;
+       background-color:goldenrod;
+       color: black;
+       height: 50px;
+       width: 150px;
+   }
+   .health-image1{
+       height: 150px;
+       width: 150px;
+   }
+   .delivery-section{
+       background-color:white;
+   }
+   .Thank{
+       background-image: radial-gradient(#d0b200,#a58d00);
+   }
+   .para{
+       font-size: 20px;
+       color: gray;
+     
+   }
+  .health-button2{
+       border-radius: 10px;
+       background-image: linear-gradient(#d0b200,#a58d00);
+       color: black;
+       height: 50px;
+       width: 150px;
+   }
+   
+   .fol-container{
+    background-color: rgb(180, 180, 254);
+}
+.fol-heading{
+    font-family: robot;
+    font-size: 35px;
+    color: black;
+    font-weight: bold;
+  padding: 16px;
+}
+.fol-icon-container{
+    background-color:lightgoldenrodyellow;
+    border-radius: 40px;
+    height: 50px;;
+    width:50px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-left:22px;
+    padding-right:16px ;
+    margin: 15px;
+}
+.footer-section{
+    background-color:cornsilk ;
+}
+.foot-para{
+    font-family: robot;
+    font-size: 20px;
+    color: black;
+}
+foot-heading{
+    font-family: robot;
+    font-size: 35px;
+    color: black;
+    font-weight: bold;
+  padding: 16px;
+}
+.fol-image{
+    height: 50px;
+    width: 50px;
+    
+}
