@@ -1,0 +1,23 @@
+ .bg-container {
+            background-color: #0a1d37;
+            min-height: 100vh;
+            color: white;
+            padding-top: 30px;
+        }
+        .guess-game-img {
+            height: 100px;
+            width: 100px;
+
+        }
+        
+        
+        .game-description {
+            font-size: 25px;
+            color: black;
+            font-weight: bold;
+        }
+        .guess-heading {
+            font-size: 35px;
+            margin-top: 20px;
+            color: white;
+        }
