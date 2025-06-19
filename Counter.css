@@ -1,0 +1,25 @@
+.bg-container{
+    background-color: aliceblue;
+height: 100vh;
+   
+}
+.heading{
+    font-family: robot;
+    font-size: 50px;
+    color: black;
+    font-weight: bold
+    
+}
+.para{
+    font-family: robot;
+    font-size: 45px;
+    color: black;
+    font-weight: bold;
+}
+.button{
+    border-radius: 10px;
+    margin: 5px;
+     height: 50px;
+    width: 80px;
+   
+}
